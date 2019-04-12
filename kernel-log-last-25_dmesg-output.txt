@@ -1,0 +1,25 @@
+[   73.443042] [drm] Error -12 pinning new fb, out of video mem?
+[   73.459218] [drm] Error -12 pinning new fb, out of video mem?
+[   73.476089] [drm] Error -12 pinning new fb, out of video mem?
+[   73.492398] [drm] Error -12 pinning new fb, out of video mem?
+[   73.511426] [drm] Error -12 pinning new fb, out of video mem?
+[   73.550650] [drm] Error -12 pinning new fb, out of video mem?
+[   73.845435] [drm] Error -12 pinning new fb, out of video mem?
+[   75.579523] [drm] Error -12 pinning new fb, out of video mem?
+[   77.626597] [drm] Error -12 pinning new fb, out of video mem?
+[   77.721822] [drm] Error -12 pinning new fb, out of video mem?
+[   77.979925] [drm] Error -12 pinning new fb, out of video mem?
+[   78.024416] [drm] Error -12 pinning new fb, out of video mem?
+[   78.176152] [drm] Error -12 pinning new fb, out of video mem?
+[   78.249482] [drm] Error -12 pinning new fb, out of video mem?
+[   78.319921] [drm] Error -12 pinning new fb, out of video mem?
+[   78.357543] [drm] Error -12 pinning new fb, out of video mem?
+[   78.391742] [drm] Error -12 pinning new fb, out of video mem?
+[   78.429132] [drm] Error -12 pinning new fb, out of video mem?
+[   78.466478] [drm] Error -12 pinning new fb, out of video mem?
+[   78.505435] [drm] Error -12 pinning new fb, out of video mem?
+[   78.541658] [drm] Error -12 pinning new fb, out of video mem?
+[   78.572839] [drm] Error -12 pinning new fb, out of video mem?
+[   89.012955] fuse init (API version 7.28)
+[   99.983607] ISO 9660 Extensions: Microsoft Joliet Level 3
+[   99.996758] ISO 9660 Extensions: RRIP_1991A

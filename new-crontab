@@ -1,0 +1,7 @@
+#* 12 * * * wall -n "0W0 any furries here?" # run every min past noon
+#* * * * * wall -n "Can you hear me now?" # run every min
+#0 12 * * * wall -n "Time for lunch!" # every day at after noon
+# 0 0 * * 7 wall -n "Backing up the database alert!" # every sunday at midnight
+
+# NOTE; must be crontab of root user for everyone to view the message.
+# uncommnet the wall commands above when needed

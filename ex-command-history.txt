@@ -1,0 +1,270 @@
+    1  fuck
+    2  sudo yum update -y
+    3  fuck
+    4  sudo yum install fuck
+    5  sudo yum search fuck
+    6  clear
+    7  ls
+    8  fuck
+    9  sudo su
+   10  sudo yum install thefuck
+   11  mane thefuck
+   12  man thefuck
+   13  thefuck
+   14  sud su
+   15  thefuck
+   16  thefuck -a
+   17  sudo init 0
+   18  clear
+   19  ls
+   20  mkdir cit173_lab10
+   21  clear
+   22  cd /var/lo
+   23  ls
+   24  cd /var/log
+   25  ls
+   26  ls audit/
+   27  exit
+   28  exit
+   29  man logger
+   30  exit
+   31  clear
+   32  sudo su
+   33  man systemctl
+   34  sudo su
+   35  cd /etc/
+   36  ls
+   37  cd grub.d/
+   38  ls
+   39  sudo su
+   40  sudos u
+   41  sudo su
+   42  clear
+   43  clq
+   44  clear
+   45  claer
+   46  exit
+   47  sudo crontab -e
+   48  lear
+   49  xit
+   50  exit
+   51  '
+   52  clear
+   53  cd
+   54  echo "test" | boxes
+   55  sudo yum install boxes
+   56  echo "hello world" | boxes
+   57  sudo crontab -e
+   58  sudo su
+   59  ls
+   60  mkdir CIT173_lab7
+   61  cd CIT173_lab7/
+   62  ls
+   63  clear
+   64  ls
+   65  history > history.lst
+   66  ls
+   67  tmux new -s tester
+   68  clear
+   69  w
+   70  clear
+   71  tty
+   72  crontab -e
+   73  sudo crontab -e
+   74  clear
+   75  ls
+   76  cd cit173_lab10/
+   77  ls
+   78  nano notes
+   79  clear
+   80  sudo run-parts /etc/cron.daily/
+   81  sudo crontab -e
+   82  ls
+   83  nano notes 
+   84  clear
+   85  wall -n teste
+   86  sudo wall -n tets
+   87  clear
+   88  man wall
+   89  sudo wall -d test
+   90  which xmesage
+   91  sudo su
+   92  w
+   93  wwho
+   94  who
+   95  clear
+   96  notify-send "test" "string"
+   97  sudo notify-send "test" "string"
+   98  sudo su
+   99  sudo init 0
+  100  exit
+  101  clear
+  102  ls
+  103  cd cit173_lab10/
+  104  ls
+  105  ca tnote
+  106  sudo dmesg -k | tail -n 25 > kernel-log-last-25.txt
+  107  mv kernel-log-last-25.txt old_kernel-log-last-25.txt 
+  108  which rsyslog
+  109  sudo yum install rsyslog
+  110  clear
+  111  cd /etc/systemd/
+  112  ls
+  113  sudo cp journald.conf journald.conf.bak
+  114  which nano 
+  115  sudo nano journald.conf
+  116  sudo vi journald.conf
+  117  sudo systemctl restart systemd-journal
+  118  sudo systemctl restart systemd-journald
+  119  clear
+  120  which rsyslog
+  121  sudo yum isntall rsyslog -y && sudo systemctl enable rsyslog && sudo systemctl start rsyslog
+  122  sudo yum install rsyslog -y && sudo systemctl enable rsyslog && sudo systemctl start rsyslog
+  123  clear
+  124  cd
+  125  ls
+  126  cd /etc/
+  127  ls
+  128  cd /var/log
+  129  ls
+  130  s
+  131  ls
+  132  exit
+  133  cd /etc/
+  134  ls
+  135  less rsyslog.conf
+  136  exit
+  137  cd /etc/
+  138  ls
+  139  cd rsyslog.d/
+  140  ls
+  141  ls -al
+  142  cd ..
+  143  ls
+  144  ls | grep rsys
+  145  nc -lnvp 4444
+  146  dmesg -k | tail -n 5
+  147  clear
+  148  less rsyslog.conf 
+  149  sudo cp rsyslog.conf rsyslog.conf.bak
+  150  sudo nano rsyslog.conf
+  151  clear
+  152  ls
+  153  claer
+  154  cd /var/
+  155  ls
+  156  cd log
+  157  ls
+  158  sudo systemctl restart rsyslog.service 
+  159  s
+  160  ls
+  161  ls -al
+  162  claer
+  163  clear
+  164  ls
+  165  ls | grep kern
+  166  clear
+  167  s
+  168  ls
+  169  cd journal/
+  170  ls
+  171  cd dfa5dd8315d141ccb59210a1da1541ab/
+  172  ls
+  173  cat system
+  174  cat system.journal 
+  175  ls
+  176  cd ..
+  177  ls
+  178  cd ..
+  179  ls
+  180  clear
+  181  exit
+  182  cd cit173_lab10/
+  183  ls
+  184  sudo dmesg -k | tail -n 25 > kernel-log-last-25_after-rsys.txt
+  185  wc -l kernel-log-last-25_after-rsys.txt 
+  186  clear
+  187  logger "Help! I've fallen and I can't get up!"
+  188  jounralctl -k | head -n 3
+  189  journalctl -k | head -n 3
+  190  journalctl -k | tail -n 3
+  191  demsg -k | tail -n 3
+  192  dmesg -k | tail -n 3
+  193  nc 127.0.0.1 4444
+  194  cat /dev/console 
+  195  sudo cat /dev/console 
+  196  sudo cat /dev/console | less
+  197  cd /dev
+  198  ls
+  199  cdfile console 
+  200  file console 
+  201  cd console
+  202  cat console 
+  203  sudo cat console 
+  204  d
+  205  clear
+  206  ls
+  207  clear
+  208  cd
+  209  cd cit173_lab10/
+  210  ls
+  211  rm kernel-log-last-25_after-rsys.txt 
+  212  clear
+  213  ls
+  214  rm old_kernel-log-last-25.txt 
+  215  sudo dmesg -k | tail -n 25 > kernel-log-last-25_dmesg-output.txt
+  216  claer
+  217  ls
+  218  clear
+  219  logger "Help! I've fallen and I can't get up!"
+  220  logger "Help! I've fallen and I can't get up! tester"
+  221  logger "Help! I've fallen and I can't get up!"
+  222  logger "Help! I've fallen and I can't get up! tester"
+  223  exit
+  224  tmux new -s tester
+  225  reboot
+  226  sudo shutdown now -r
+  227  cd
+  228  ls
+  229  clear
+  230  ls
+  231  cd cit173_lab10/
+  232  claer
+  233  ls
+  234  clear
+  235  demsg -k | grep help
+  236  dmesg -k | grep help
+  237  jouranlctl -k | grep help
+  238  journalctl -k | grep help
+  239  clear
+  240  sudo less rsyslog.conf 
+  241  ls
+  242  cate new-rsyslog.conf 
+  243  sudo cat new-rsyslog.conf 
+  244  clear
+  245  cd /var/log
+  246  ls
+  247  cd /var/
+  248  ls
+  249  cd /etc/
+  250  ls
+  251  sudo nano rsyslog.conf
+  252  reboot
+  253  cal
+  254  date -u
+  255  date
+  256  date -d "2/02/2010"
+  257  date --date="3/02/2001 12:21:00" 
+  258  clear
+  259  cd cit173_lab10/
+  260  ls
+  261  nano date_command
+  262  ls
+  263  nano README.md
+  264  clear
+  265  which ntpd
+  266  sudo yum install ntpd -y
+  267  sudo yum install nptd -y
+  268  sudo yum install ntp -y
+  269  clear
+  270  history > ex-command-history.txt

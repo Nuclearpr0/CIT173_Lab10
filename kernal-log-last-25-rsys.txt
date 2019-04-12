@@ -1,0 +1,25 @@
+Apr 12 10:35:40 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:35:40 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:35:40 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:35:41 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:36:00 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:00 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:37:38 localhost kernel: [drm] Error -12 pinning new fb, out of video mem?
+Apr 12 10:38:06 localhost kernel: fuse init (API version 7.28)
+Apr 12 10:38:16 localhost kernel: ISO 9660 Extensions: Microsoft Joliet Level 3
+Apr 12 10:38:16 localhost kernel: ISO 9660 Extensions: RRIP_1991A
